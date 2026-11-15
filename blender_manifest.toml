@@ -1,0 +1,14 @@
+schema_version = "1.0.0"
+
+id = "procedural_welder"
+version = "1.0.0"
+name = "Procedural Welder"
+tagline = "Fast procedural weld bead generator using Geometry Nodes"
+maintainer = "LuvPeaches"
+type = "add-on"
+
+blender_version_min = "4.2.0"
+
+license = [
+  "SPDX:GPL-3.0-or-later",
+]
